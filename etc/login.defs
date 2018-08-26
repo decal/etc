@@ -103,7 +103,7 @@ HUSHLOGIN_FILE	/etc/hushlogins
 #
 # (they are minimal, add the rest in the shell startup files)
 ENV_SUPATH	PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
-ENV_PATH	PATH=/opt/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games
+ENV_PATH	PATH=/home/decal/bin:/opt/local/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/games
 
 #
 # Terminal permissions
